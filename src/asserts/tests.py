@@ -1,4 +1,4 @@
-from nose.tools import assert_raises, eq_
+from nose.tools import assert_raises
 from . import sparse_check
 
 
