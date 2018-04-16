@@ -14,6 +14,10 @@ env:
     - TOXENV=3.3-nocover
     - TOXENV=3.4,coveralls
     - TOXENV=3.4-nocover
+    - TOXENV=3.5,coveralls
+    - TOXENV=3.5-nocover
+    - TOXENV=3.6,coveralls
+    - TOXENV=3.6-nocover
     - TOXENV=pypy,coveralls
     - TOXENV=pypy-nocover
 before_install:
